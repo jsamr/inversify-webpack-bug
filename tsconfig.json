@@ -1,0 +1,17 @@
+{
+  "version": "2.4.2",
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "allowSyntheticDefaultImports": true,
+    "allowUnusedLabels": false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es5",
+    "lib": ["es5", "es6", "dom"],
+    "noImplicitAny": false,
+    "sourceMap": true,
+    "types": ["reflect-metadata"]
+  }
+}

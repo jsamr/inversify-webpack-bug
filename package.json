@@ -1,0 +1,21 @@
+{
+  "name": "minimal-working-example-bug",
+  "version": "1.0.0",
+  "description": "Issue with decorators",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "awesome-typescript-loader": "^3.2.2",
+    "inversify": "^4.3.0",
+    "reflect-metadata": "^0.1.10"
+  },
+  "devDependencies": {
+    "@types/webpack": "^3.0.5",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.4.2",
+    "webpack": "^3.4.1",
+    "webpack-dev-server": "^2.6.1"
+  }
+}
