@@ -5,6 +5,6 @@ const container = new Container()
 
 container.bind<string>('string')
   .toConstantValue('https://my.domain/')
-  .whenTargetNamed('string')
+  .whenTargetNamed('config-url')
 
 export default container
