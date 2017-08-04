@@ -1,4 +1,4 @@
-- `git clone git@github.com:sveinburne/injectify-webpack-bug.git`  
+- `git clone git@github.com:sveinburne/inversify-webpack-bug.git`  
 - `cd injectify-webpack-bug`  
 - `yarn install`  or `npm install`  
 - `yarn start` or `npm start`
