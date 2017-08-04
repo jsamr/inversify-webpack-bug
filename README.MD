@@ -1,5 +1,5 @@
-`git clone git@github.com:sveinburne/injectify-webpack-bug.git`  
-`cd injectify-webpack-bug`  
-`yarn install`  
-	or  
-`npm install`  
+- `git clone git@github.com:sveinburne/injectify-webpack-bug.git`  
+- `cd injectify-webpack-bug`  
+- `yarn install`  or `npm install`  
+- `yarn start` or `npm start`
+- [localhost:8080](http://localhost:8080/)
